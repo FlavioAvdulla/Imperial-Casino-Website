@@ -24,7 +24,7 @@ c:["$","$Ld",null,{"formats":"$undefined","locale":"en","messages":{"nav":{"home
 14:["$","$L1d",null,{"href":"/en/games/roulette","locale":"$undefined","localeCookie":"$1e","className":"text-sm text-imperial-cream/60 transition-colors hover:text-imperial-gold","children":"Roulette"}]
 15:["$","$L1d",null,{"href":"/en/games/slots","locale":"$undefined","localeCookie":"$1e","className":"text-sm text-imperial-cream/60 transition-colors hover:text-imperial-gold","children":"Slots"}]
 16:["$","$L1d",null,{"href":"/en/about","locale":"$undefined","localeCookie":"$1e","className":"text-sm text-imperial-cream/60 transition-colors hover:text-imperial-gold","children":"About Us"}]
-17:["$","$L1d",null,{"href":"/en/events","locale":"$undefined","localeCookie":"$1e","className":"text-sm text-imperial-cream/60 transition-colors hover:text-imperial-gold","children":"Promotions"}]
+17:["$","$L1d",null,{"href":"/","locale":"$undefined","localeCookie":"$1e","className":"text-sm text-imperial-cream/60 transition-colors hover:text-imperial-gold","children":"Promotions"}]
 18:["$","$L1d",null,{"href":"/en/contact","locale":"$undefined","localeCookie":"$1e","className":"text-sm text-imperial-cream/60 transition-colors hover:text-imperial-gold","children":"Contact"}]
 1a:["$","$L1d",null,{"href":"#","locale":"$undefined","localeCookie":"$1e","className":"text-xs text-imperial-cream/40 transition-colors hover:text-imperial-cream/70","children":"Privacy Policy"}]
 1b:["$","$L1d",null,{"href":"#","locale":"$undefined","localeCookie":"$1e","className":"text-xs text-imperial-cream/40 transition-colors hover:text-imperial-cream/70","children":"Terms of Service"}]
