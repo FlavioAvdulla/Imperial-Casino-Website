@@ -1318,22 +1318,22 @@
           {
             key: "mega",
             name: "Imperial Jackpot",
-            value: 2302052,
+            value: 1002052,
             currency: "ALL",
           },
           {
             key: "super",
-            name: "Imperial Jackpot",
-            value: 753972,
+            name: "Mega Jackpot",
+            value: 830972,
             currency: "ALL",
           },
           {
             key: "middle",
             name: "Major Jackpot",
-            value: 171787,
+            value: 130787,
             currency: "ALL",
           },
-          { key: "mini", name: "Mini Jackpot", value: 20783, currency: "ALL" },
+          { key: "mini", name: "Mini Jackpot", value: 34083, currency: "ALL" },
         ],
         r = 124457832,
         l = [
