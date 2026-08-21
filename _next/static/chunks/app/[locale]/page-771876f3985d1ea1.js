@@ -798,7 +798,7 @@
                                 children: [
                                   (0, a.jsxs)("div", {
                                     className:
-                                      "flex items-center justify-between gap-3 mb-2",
+                                      "flex items-center justify-center gap-3 mb-2",
                                     children: [
                                       (0, a.jsx)("h4", {
                                         className:
@@ -1318,7 +1318,7 @@
           {
             key: "mega",
             name: "Imperial Jackpot",
-            value: 1002052,
+            value: 1402052,
             currency: "ALL",
           },
           {
